@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nathan Carter</h1>
-<h3 align="center">Im new in this journey.</h3>
+<h1 align="center">Hi 👋🏻, I'm Rishikesh</h1>
+<h2 align="center">Im new in this journey.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancarter209&label=Profile%20views&color=00fbff&style=plastic" alt="nathancarter209" /> </p>
 
