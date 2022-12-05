@@ -1,27 +1,59 @@
 <h1 align="center">Hi 👋🏻, I'm Rishikesh</h1>
-<h2 align="center">Im new in this journey.</h2>
+<h2 align="center">I'm new in this journey.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancarter209&label=Profile%20views&color=00fbff&style=plastic" alt="nathancarter209" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nathancarter209&label=Profile%20views&color=00fbff&style=flat-square" alt="nathancarter209" /> </p> -->
 
-- 🌖 I’m currently learning **C, Javascript and Python**
+- 🌖 I’m currently learning **C, Javascript, Python, HTML and CSS**
 
-- 👨🏻‍💻 All of my projects and other things are available at [https://fueler.io/nathan_r](https://fueler.io/nathan_r)
+- 👨🏻‍💻 All of my projects and other things are available at <a herf="https://fueler.io/nathan_r" target="blank">Fueler</a>
 
 - 🦋 Fun fact **Im also learning Music Production. (Its more like self-taught)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nathan_carter19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathan_carter19" height="30" width="40" /></a>
-<a href="https://discord.gg/aUfNHA5zv2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aUfNHA5zv2" height="30" width="40" /></a>
+<!-- Connect with me -->
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/nathan_carter19" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nathan_carter19" ></a>
+<a href="https://discord.gg/aUfNHA5zv2" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aUfNHA5zv2"  /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<!-- Language -->
+
+<h3 align="center">Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+
+</p>
+
+<!-- Tools  and workspace -->
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathancarter209&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nathancarter209" />
+<h3 align="center">Tools and Workspace</h3>
+<p align="Center">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> 
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/APPLE-MacBook%20Pro%202014-lightgrey?style=for-the-badge&logo=apple&logoColor=white"/>
+<!-- <img src="https//img.shields.io/badge/CLION-0000000000000red?style=for-the-badge&logo=clion&logoColor=white"/>  -->
+<img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" />
+
+
+
+<!-- Stats -->
+
+<h3 align="center">Stats</h3>
+<h align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathancarter209&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="nathancarter209" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathancarter209&show_icons=true&theme=synthwave&locale=en" alt="nathancarter209" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancarter209&theme=dark" alt="nathancarter209" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancarter209&theme=synthwave" alt="nathancarter209" /></p>
+</h>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nathancarter209&label=Profile%20views&color=red&style=for-the-badge" alt="nathancarter209" /> </p>
