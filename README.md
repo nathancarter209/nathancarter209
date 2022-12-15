@@ -3,11 +3,11 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nathancarter209&label=Profile%20views&color=00fbff&style=flat-square" alt="nathancarter209" /> </p> -->
 
-- 🌖 I’m currently learning **C, Javascript, Python, HTML and CSS**
+-  I’m currently learning **C, Javascript, Python, HTML and CSS**
 
-- 👨🏻‍💻 All of my projects and other things are available at <a herf="https://fueler.io/nathan_r" target="blank">Fueler</a>
+-  All of my projects and other things are available at <a herf="https://fueler.io/nathan_r" target="blank">Fueler</a>
 
-- 🦋 Fun fact **Im also learning Music Production. (Its more like self-taught)**
+-  Fun fact **Im also learning Music Production. (Its more like self-taught)**
 
 <!-- Connect with me -->
 
