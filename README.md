@@ -57,4 +57,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancarter209&theme=synthwave" alt="nathancarter209" /></p>
 </h>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nathancarter209&label=Profile%20views&color=red&style=for-the-badge" alt="nathancarter209" /> </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/[![Discord Presence](https://lanyard.kyrie25.me/api/nathan_.c)](https://discord.com/users/nathan_.c))](https://discord.com/users/[![Discord Presence](https://lanyard.kyrie25.me/api/nathan_.c)](https://discord.com/users/nathan_.c))
+
